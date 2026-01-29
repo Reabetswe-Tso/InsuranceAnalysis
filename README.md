@@ -49,6 +49,8 @@ The dataset includes policyholder and claim-level data with fields such as:
 **Objective:** Enable dynamic exploration of data.  
 **Feature:** Filters for Policy Type, Age Group, and Claim Status.
 
+<img width="1577" height="723" alt="Screenshot (418)" src="https://github.com/user-attachments/assets/5247a73e-7720-45e1-8bcc-be139d1ad715" />
+
 ## Findings and Conclusion
 
 - **High-Risk Segments:** Certain policy types and age groups show elevated claim frequency.
